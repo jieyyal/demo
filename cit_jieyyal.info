@@ -1,0 +1,7 @@
+name = CIT Jieyyal Custom Module
+description = A custom module developed by cit jieyyal.
+package = custom
+configure = admin/config/cit-jieyyal
+version = 7.x-1.0
+core = 7.x
+project = 'cit_jieyyal'
